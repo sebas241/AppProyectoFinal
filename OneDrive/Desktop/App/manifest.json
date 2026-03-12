@@ -1,0 +1,21 @@
+{
+"name": "Catalogo Sombreros Aguadeños",
+"short_name": "Sombreros",
+"start_url": "index.html",
+"display": "standalone",
+"background_color": "#ffffff",
+"theme_color": "#8B0000",
+"orientation": "portrait",
+"icons": [
+{
+"src": "assets/icono.png",
+"sizes": "192x192",
+"type": "image/png"
+},
+{
+"src": "assets/icono.png",
+"sizes": "512x512",
+"type": "image/png"
+}
+]
+}
